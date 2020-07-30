@@ -1,0 +1,2 @@
+gcc rotation.c
+./a.out
